@@ -7,7 +7,7 @@ How to install:
 2. Download this repo.
 3. Stick `www.desmos.com` in your overrides folder
 4. Open chrome console (don't open it in Desmos directly, you'll softlock chrome)
-5. Navigate to Desmos normally
-6. Close the chrome console, you now have godmode!
+5. Navigate to www.desmos.com/calculator
+6. Once it loads, you can close the chrome console
 
 

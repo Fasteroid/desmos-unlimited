@@ -5,5 +5,5 @@ How to install:
 
 1. Set up a folder for and enable chrome overrides.
 2. Download this repo.
-3. Stick the folder `www.desmos.com` in your overrides folder
+3. Stick `www.desmos.com` in your overrides folder
 4. Ur done lol have fun

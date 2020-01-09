@@ -6,4 +6,8 @@ How to install:
 1. Set up a folder for and enable chrome overrides.
 2. Download this repo.
 3. Stick `www.desmos.com` in your overrides folder
-4. Ur done lol have fun
+4. Open chrome console (don't open it in Desmos directly, you'll softlock chrome)
+5. Navigate to Desmos normally
+6. Close the chrome console, you now have godmode!
+
+
